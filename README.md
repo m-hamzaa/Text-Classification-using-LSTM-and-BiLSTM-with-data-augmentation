@@ -6,7 +6,7 @@ Spam and Ham messages classification by using LSTM and BiLSTM models. Analysed t
 
 Worked on text classification using SMS dataset containing spam and ham messages. Implemented LSTM and BiLSTM models and analyzed their performances on original data and augmented data. Following things are completed for this project.
 
-1) Performed data cleaning
+1) Performed data cleansing
 2) Performed data augmentation to balance the dataset
 3) Analyzed data by extracting most common words for spam and ham messages
 4) Implemented LSTM model to classify spam and ham messages
